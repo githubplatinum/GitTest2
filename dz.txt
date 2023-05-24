@@ -1,0 +1,19 @@
+/*unesite jos 3 radna ugovora na nacin: zaposlena su 3 nova visa analiticara (sifraZaposlenika - 9,10,11) 
+	na rok od 12 mjeseci, pocetak ugovora im je bio jucer. Potrebno je unijeti i datum do.
+	Place koje unesete moraju biti u rasponu min i max place za to radno mjesto*/
+
+/*Napisite upit koji racuna prosjecnu placu zaposlenika za radno mjesto analiticar, potrebno je ispisati 
+	sifru i naziv radnog mjesta*/
+
+	/*
+Napravite novu bazu na nacin da jedan instrument ima jednoj proizvodaca,
+a jedan proizvodac moze prozvesti vise instrumenata. Svaki instrument pripada
+nekom tipu instrumenata (puhacki, udaraljke, gudacki..).
+O instrumentiu znamo koja mu je bila nabavna cijena, koja mu je prodajna
+cijena i koliko je instrumenata na skladistu. Nabavna je manja od prodajne.
+Unesite 7 instrumenata i 4 proizvodaca. Jedan proizvodac 
+nije proizveo ni jedan instrument.
+
+
+
+*/
