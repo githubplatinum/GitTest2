@@ -16,10 +16,4 @@ nije proizveo ni jedan instrument.
 
 
 
-Napisite upit koji vraca broj instrumenata po tipu.
-
-Napisite upit koji vraca najskuplji instrument u nabavi.
-
-Napisite upit koji vraca naziv proizvodaca i broj instrumenata koje je
-proizveo, neovisno da li je proizveo koji ili ne.
 */
